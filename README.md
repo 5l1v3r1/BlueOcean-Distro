@@ -7,6 +7,18 @@ However though, it can't be setup as an iso (As there is no real efficient way o
 
 ------------------------------------------------------
 
+# Login Page
+
+The login is very simple:
+
+User's Name: User
+Username: user
+Password: changeme
+
+------------------------------------------------------
+
+# Download File
+
 Heres the download link:
 https://www.dropbox.com/s/00mkwgc0bczospt/Lin8x%20Ubuntu%20Mini.vmdk?dl=0
 
